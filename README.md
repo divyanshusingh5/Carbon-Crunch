@@ -1,4 +1,3 @@
-Certainly! Here's a more in-depth README for Carbon Crunch:
 
 ---
 
